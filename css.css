@@ -33,11 +33,11 @@ hr {
 }
 
 .navbar .navbar-item {
-  color: #e4e2ff;
+  color: #3CEE28;
 }
 
 .navbar .navbar-item.is-active {
-  color: #e4e2ff;
+  color: #3CEE28;
   font-weight: 700;
 }
 
@@ -48,7 +48,7 @@ hr {
 
 .navbar .navbar-item a {
   margin-left: 1rem;
-  color: #e4e2ff;
+  color: #3CEE28;
 }
 
 .blog-posts {
