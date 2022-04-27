@@ -15,12 +15,12 @@ html {
 }
 
 a {
-  color: #3b7adf;
+  color: #3CEE28;
 }
 
 a:hover {
   text-decoration: underline;
-  color: #3b7adf;
+  color: #3CEE28;
 }
 
 hr {
@@ -71,7 +71,7 @@ hr {
 }
 
 .blog-posts .post .post-category {
-  color: #3b7adf;
+  color: #3CEE28;
 }
 
 .blog-posts .post .post-title {
