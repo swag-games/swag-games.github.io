@@ -6,12 +6,12 @@
 }
 
 img .icon{
-  content: url("images/logo/day");
+  content: url("images/logo/day.png");
 }
 
 html {
   font-family: 'Nunito Sans', sans-serif;
-  color: white;
+  color: black;
 }
 
 a {
