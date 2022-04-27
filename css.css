@@ -5,6 +5,10 @@
   align-items: center;
 }
 
+img .icon{
+  content: url("images/logo/day");
+}
+
 html {
   font-family: 'Nunito Sans', sans-serif;
   color: white;
